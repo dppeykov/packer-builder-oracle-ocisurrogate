@@ -45,7 +45,7 @@ type Config struct {
 	BaseImageName string `mapstructure:"base_image_name"`
 	Shape       string `mapstructure:"shape"`
 	ImageName   string `mapstructure:"image_name"`
-	BootVolumeSizeInGBs int64 `mapstructure:"bootvolumesize"`
+	BootVolumeSizeInGBs int `mapstructure:"bootvolumesize"`
 	// Instance
 	InstanceName string `mapstructure:"instance_name"`
 
