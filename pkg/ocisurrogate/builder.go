@@ -15,7 +15,7 @@ import (
 )
 
 // BuilderId uniquely identifies the builder
-const BuilderId = "mattiarossi.ocisurrogate"
+const BuilderId = "dppeykov.ocisurrogate"
 
 // OCI API version
 const ociAPIVersion = "20160918"
