@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/packer/packer/plugin"
-	"github.com/mattiarossi/packer-builder-oracle-ocisurrogate/pkg/ocisurrogate"
+	"github.com/dppeykov/packer-builder-oracle-ocisurrogate/pkg/ocisurrogate"
 )
 
 func main() {
