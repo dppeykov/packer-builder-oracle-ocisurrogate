@@ -1,5 +1,5 @@
 workspace_root: &workspace_root
-  /go/src/github.com/mattiarossi/packer-builder-oracle-ocisurrogate
+  /go/src/github.com/dppeykov/packer-builder-oracle-ocisurrogate
 
 defaults: &defaults
   working_directory: *workspace_root
